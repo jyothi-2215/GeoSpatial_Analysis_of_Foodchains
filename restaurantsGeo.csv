@@ -1,0 +1,156 @@
+,restaurant,street,zip,city,country,lat,lng
+0,McDonalds,S-Bahnhof Alexanderplatz 1,10178,Berlin,Germany,52.52115,13.4129
+1,McDonalds,U-Bahnhof Alexanderplatz 1,10178,Berlin,Germany,52.52115,13.4129
+2,McDonalds,Europaplatz 1,10557,Berlin,Germany,52.52584,13.36913
+3,McDonalds,Walther-Schreiber-Platz 1,12161,Berlin,Germany,52.4647,13.32815
+4,McDonalds,Hansastr. 1,13053,Berlin,Germany,52.547,13.46849
+5,McDonalds,Hanne-Sobek-Platz 1,13357,Berlin,Germany,52.5488,13.38807
+6,McDonalds,Grunerstr. 20,10179,Berlin,Germany,52.52024,13.4147
+7,McDonalds,Osloer Strasse 1,13359,Berlin,Germany,52.55546,13.39119
+8,McDonalds,Schnellerstr. 21,12439,Berlin,Germany,52.45658,13.50952
+9,McDonalds,Alboinstr. 4,12103,Berlin,Germany,52.46958,13.37132
+10,McDonalds,Badstr. 4,13357,Berlin,Germany,52.54965,13.3874
+11,McDonalds,Weitlingstr. 22,10317,Berlin,Germany,52.50941,13.49766
+12,McDonalds,Grossbeerenstr. 22,12107,Berlin,Germany,52.43722,13.3796
+13,McDonalds,Wrangelstr. 35,10997,Berlin,Germany,52.50088,13.43639
+14,McDonalds,Teltower Damm 35,14169,Berlin,Germany,52.43155,13.25915
+15,McDonalds,Sonntagsstrasse 37,10245,Berlin,Germany,52.50412,13.46867
+16,McDonalds,Kurt-Schumacher-Damm 38,13405,Berlin,Germany,52.56077,13.32336
+17,McDonalds,Prenzlauer Promenade 45,13089,Berlin,Germany,52.56101,13.42859
+18,McDonalds,Wilmersdorfer Str. 46,10629,Berlin,Germany,52.50972,13.30573
+19,McDonalds,Wendenschlossstr. 2,12559,Berlin,Germany,52.44803,13.59273
+20,McDonalds,Charlottenburger Chaussee 49,13597,Berlin,Germany,52.52702,13.23357
+21,McDonalds,Am Borsigturm 2,13507,Berlin,Germany,52.5838,13.28676
+22,McDonalds,Am Ostbahnhof 9,10243,Berlin,Germany,52.50949,13.43443
+23,McDonalds,Bitterfelder Str. 9,12681,Berlin,Germany,52.55359,13.54381
+24,McDonalds,Alt-Mahlsdorf 60,12623,Berlin,Germany,52.50416,13.62338
+25,McDonalds,Alt-Friedrichsfelde 61,10315,Berlin,Germany,52.50981,13.53173
+26,McDonalds,Werner-Voss-Damm 62,12101,Berlin,Germany,52.47552,13.3643
+27,McDonalds,Karl-Marx-Str. 66,12043,Berlin,Germany,52.48228,13.43313
+28,McDonalds,Am Treptower Park 14,12435,Berlin,Germany,52.49142,13.45811
+29,McDonalds,Greifswalder Str. 80,10405,Berlin,Germany,52.53973,13.43739
+30,McDonalds,Klosterstr. 3,13581,Berlin,Germany,52.53317,13.19843
+31,McDonalds,Saalestr. 83,12055,Berlin,Germany,52.46976,13.44224
+32,McDonalds,Markstr. 16,13409,Berlin,Germany,52.5606,13.36355
+33,McDonalds,Rudower Str. 100,12351,Berlin,Germany,52.43623,13.46501
+34,McDonalds,Frankfurter Allee 117,10247,Berlin,Germany,52.51364,13.47606
+35,McDonalds,Schlossstr. 117,12163,Berlin,Germany,52.46245,13.32616
+36,McDonalds,Clayallee 121,14195,Berlin,Germany,52.45882,13.2743
+37,McDonalds,Friedrichstr. 207,10969,Berlin,Germany,52.50729,13.39043
+38,McDonalds,Sonnenallee 254,12057,Berlin,Germany,52.47101,13.46115
+39,McDonalds,Johannisthaler Chaussee 295,12353,Berlin,Germany,52.43042,13.45596
+40,McDonalds,Heerstr. 666,13591,Berlin,Germany,52.52834,13.12373
+41,McDonalds,Leipziger Platz 12-13,10117,Berlin,Germany,52.5108,13.38105
+42,McDonalds,Hermannplatz 2-3,10967,Berlin,Germany,52.48665,13.4247
+43,McDonalds,Buckower Chaussee 100-102,12277,Berlin,Germany,52.41055,13.38209
+44,McDonalds,Kantstr. 111a,10627,Berlin,Germany,52.50668,13.30636
+45,McDonalds,Osdorferstr. 125a,12207,Berlin,Germany,52.41957,13.3125
+46,McDonalds,Friedrichstr. 141-142,10117,Berlin,Germany,52.52017,13.38828
+47,McDonalds,Friedrichstr. 141-142,10117,Berlin,Germany,52.52017,13.38828
+48,McDonalds,Marzahner Promenade 1a,12679,Berlin,Germany,52.5432,13.54314
+49,McDonalds,Adlergestell 289a,12489,Berlin,Germany,52.43178,13.54716
+50,McDonalds,Schlossstr. 34-36,12163,Berlin,Germany,52.45763,13.32134
+51,McDonalds,Am Juliusturm 40-46,13599,Berlin,Germany,52.53701,13.21999
+52,McDonalds,Mecklenburgische Str. 65-68,14197,Berlin,Germany,52.47734,13.30752
+53,McDonalds,Hardenbergplatz 11,10623,Berlin,Germany,52.50798,13.33364
+54,McDonalds,5 Rue du Renard,75004,Paris,France,48.85781,2.35155
+55,McDonalds,116 Rue de Rivoli,75001 ,Paris,France,48.85923,2.346
+56,McDonalds,12 Rue Berger,75001,Paris,France,48.86086,2.34814
+57,McDonalds,17 Rue de l'Arc en Ciel,75001,Paris,France,48.87724,2.29348
+58,McDonalds,Forum des Halles,75001,Paris,France,48.86264,2.3473
+59,McDonalds,98 Boulevard Saint Germain,75005,Paris,France,48.85125,2.34373
+60,McDonalds,89 Rue Réaumur,75002,Paris,France,48.86742,2.34706
+61,McDonalds,65 Boulevard Saint Michel,75005,Paris,France,48.84712,2.34067
+62,McDonalds,4 boulevard Richard Lenoir,75011,Paris,France,48.85401,2.36982
+63,McDonalds,99  Rue de Rivoli,75001,Paris,France,48.86284,2.33491
+64,McDonalds,141 Boulevard Sébastopol,75002,Paris,France,48.86906,2.35408
+65,McDonalds,19 Place de la République,75003,Paris,France,48.86779,2.36261
+66,McDonalds,184 Rue de Rivoli,75001,Paris,France,48.86335,2.33336
+67,McDonalds,2 Boulevard Poissonnière,75009,Paris,France,48.87073,2.34762
+68,McDonalds,2 Boulevard de l'Hôpital,75005,Paris,France,48.84289,2.36397
+69,McDonalds,29 Rue du Faubourg du Temple,75010,Paris,France,48.86888,2.36775
+70,McDonalds,20 Boulevard Montmartre,75009,Paris,France,48.87195,2.34029
+71,McDonalds,80 rue Traversière,75012,Paris,France,48.85103,2.376
+72,McDonalds,88 bis Avenue Parmentier,75011,Paris,France,48.86544,2.37469
+73,McDonalds,34 Boulevard des Italiens,75009,Paris,France,48.87115,2.33516
+74,McDonalds,"45/47 WHITEHALL, WESTMINSTER",SW1A 2BX,London,England,51.50631,-0.12715
+75,McDonalds,34/35 STRAND,WC2N 5HY,London,England,51.50911,-0.12447
+76,McDonalds,48 LEICESTER SQUARE,WC2H 7LU,London,England,51.51022,-0.13057
+77,McDonalds,68/69 ST MARTINS LANE,WC2N 4JS,London,England,51.51158,-0.12713
+78,McDonalds,25/27 SHAFTESBURY AVENUE,W1D 7EQ,London,England,51.51098,-0.13373
+79,McDonalds,24 CAMBRIDGE CIRCUS,WC2H 8AA,London,England,51.51353,-0.12924
+80,McDonalds,8/10 OXFORD STREET,W1D 1AW,London,England,51.51638,-0.13093
+81,McDonalds,185-187 OXFORD STREET,W1D 2JU,London,England,51.51561,-0.13905
+82,McDonalds,Waterloo Station,SE1 8SF,London,England,51.50375,-0.11283
+83,McDonalds,112 HIGH HOLBORN,WC1V 6JS,London,England,51.51817,-0.11125
+84,McDonalds,291B OXFORD STREET,W1C 2DT,London,England,51.51502,-0.14407
+85,McDonalds,155 VICTORIA STREET,SW1E 5NA,London,England,51.49685,-0.14004
+86,McDonalds,152/153 FLEET STREET,EC4A 2DQ,London,England,51.51421,-0.10774
+87,McDonalds,WEST ONE SHOPPING CENTRE,W1C 2JS,London,England,51.51378,-0.14888
+88,McDonalds,"Chancery Lane,  6/7 HOLBORN",EC1N 2LL,London,England,51.51512,-0.11147
+89,McDonalds,"Victoria Station,  MAIN CONCOURSE",SW1V 1JT,London,England,51.49641,-0.14369
+90,McDonalds,115 BUCKINGHAM PALACE ROAD,SW1W 9SJ,London,England,51.49464,-0.14511
+91,McDonalds,1A LUDGATE HILL,EC4M 7AA,London,England,51.51377,-0.10081
+92,McDonalds,134 TOTTENHAM COURT ROAD,W1T 5BA,London,England,51.52446,-0.13781
+93,McDonalds,122 BAKER STREET,W1U 6TX,London,England,51.52136,-0.15714
+94,McDonalds,BELGROVE HOUSE,NW1 2RY,London,England,51.52223,-0.1651
+95,McDonalds,302/304 PENTONVILLE ROAD,N1 9XD,London,England,51.53079,-0.12223
+96,BK,Alexanderplatz 8,10178,Berlin,Germany,52.52219,13.41318
+97,BK,S-Bahnhof Friedrichstr.,10178,Berlin,Germany,51.96073,7.63589
+98,BK,Landsberger Allee 119,10407,Berlin,Germany,52.52936,13.4579
+99,BK,Schönhauser Allee 79-80,10439,Berlin,Germany,52.54977,13.41393
+100,BK,Str. des 17. Juni 100,10557,Berlin,Germany,52.51394,13.33688
+101,BK,Europaplatz 1,10557,Berlin,Germany,52.52584,13.36913
+102,BK,Wilmersdorfer Str. 112,10627,Berlin,Germany,52.50694,13.30659
+103,BK,Potsdamer Str. 114,10785,Berlin,Germany,52.50035,13.36328
+104,BK,General-Pape-Str. 1,12101,Berlin,Germany,52.47537,13.36621
+105,BK,Tempelhofer Damm 28-30,12101,Berlin,Germany,52.48028,13.38518
+106,BK,Ostpreußendamm 60,12207,Berlin,Germany,52.4229,13.3131
+107,BK,Nahmitzer Damm 12,12277,Berlin,Germany,52.4097,13.36886
+108,BK,Buckower Damm 11,12349,Berlin,Germany,52.44314,13.43451
+109,BK,Michael-Brückner-Str. 24,12439,Berlin,Germany,52.45265,13.51497
+110,BK,Alt-Mahlsdorf 23,12623,Berlin,Germany,52.50528,13.607
+111,BK,Marzahner Promenade 1a,12679,Berlin,Germany,52.5432,13.54314
+112,BK,Prerower Platz 1,13051,Berlin,Germany,52.56422,13.50713
+113,BK,Landsberger Allee 277,13055,Berlin,Germany,52.53456,13.4971
+114,BK,Prenzlauer Promenade 69,13089,Berlin,Germany,52.56823,13.42834
+115,BK,Flughafen Tegel,13405,Berlin,Germany,52.55402,13.29153
+116,BK,Oraniendamm 6–10,13469,Berlin,Germany,52.60752,13.32599
+117,BK,Holzhauser Str. 31–33,13509,Berlin,Germany,52.57844,13.29835
+118,BK,Charlottenburger Chaussee 51–55,13597,Berlin,Germany,52.52749,13.23318
+119,BK,Carl-Schurz-Str. 37,13597,Berlin,Germany,52.53742,13.20354
+120,BK,Saatwinkler Damm 61 - 64,13627,Berlin,Germany,52.54764,13.31061
+121,BK,Paulsternstraße 16,13629,Berlin,Germany,52.53987,13.24855
+122,BK,Kronprinzessinnenweg 120,14129,Berlin,Germany,52.43448,13.19063
+123,BK,2 RUE PIERRE LESCOT,75001,Paris,France,48.86132,2.34791
+124,BK,63 BOULEVARD SAINT-MICHEL,75005,Paris,France,48.84757,2.34095
+125,BK,20 RUE DE LA ROQUETTE,75011,Paris,France,48.85393,2.37096
+126,BK,23 PLACE DE LA REPUBLIQUE,75003,Paris,France,48.86796,2.36231
+127,BK,36 BOULEVARD DES ITALIENS,75009,Paris,France,48.87113,2.33502
+128,BK,93 BOULEVARD DE STRASBOURG,75010,Paris,France,48.87605,2.3578
+129,BK,84 BOULEVARD DU MONTPARNASSE,75014,Paris,France,48.84297,2.32644
+130,BK,25 RUE DE DUNKERQUE,75010,Paris,France,48.88019,2.3537
+131,BK,1 RUE BALANCHINE,75013,Paris,France,48.83665,2.37417
+132,BK,2 rue d'Amsterdam,75009,Paris,France,48.87585,2.32682
+133,BK,3 BOULEVARD DE BARBÈS,75018,Paris,France,48.8842,2.34946
+134,BK,4-6 AVENUE DU TRÔNE,75012,Paris,France,48.84794,2.39795
+135,BK,78/80 AVENUE DU GENERAL LECLERC,75014,Paris,France,48.82894,2.32783
+136,BK,124 RUE LA BOETIE,75008,Paris,France,48.87104,2.30641
+137,BK,279 AVENUE DAUMESNIL,75012,Paris,France,48.83565,2.40633
+138,BK,16 RUE DE TILSITT,75017,Paris,France,48.87521,2.29566
+139,BK,30 Avenue Corentin Cariou,75019,Paris,France,48.897,2.38509
+140,BK,187 AVENUE DE CLICHY,75017,Paris,France,48.89421,2.31388
+141,BK,17-21 LEICESTER SQUARE,WC2H 7LE,London,England,51.51071,-0.12973
+142,BK,1A-1B TOTTENHAM COURT ROAD,W1T 1BA,London,England,51.51685,-0.13061
+143,BK,Waterloo Rd,SE1 8SW,London,England,51.50375,-0.11308
+144,BK,BARRIER LINE,NW1 2DU,London,England,51.52917,-0.13287
+145,BK,27-29 EUSTON ROAD,NW1 2SD,London,England,51.52992,-0.12419
+146,BK,138 CAMDEN HIGH STREET,NW1 0LU,London,England,51.53809,-0.14191
+147,BK,7 Harewood Ave,NW1 6JJ,London,England,51.52258,-0.16414
+148,BK,Fenchurch Street Railway Station,EC3M 4PB,London,England,51.51165,-0.08366
+149,BK,PADDINGTON RAIL STATION,,London,England,51.51631,-0.17801
+150,BK,85 GLOUCESTER ROAD,TW9 3BT,London,England,51.59103,-0.08226
+151,BK,90 WHITECHAPEL HIGH STREET,E1 7RA,London,England,51.51556,-0.07088
+152,BK,70-72 QUEENSWAY,W2 3RL,London,England,51.51258,-0.18756
+153,BK,250-252 EARLS COURT ROAD,SW5 9AD,London,England,51.49195,-0.19259
+154,BK,Rotherhithe FOOD COURT SURREY QUAYS CENTRE,SE16 7LL,London,England,51.4934,-0.04631
